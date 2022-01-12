@@ -1,0 +1,1 @@
+# GROUP BY 和 ORDER BY一起使用时，ORDER BY要在GROUP BY的后面。
