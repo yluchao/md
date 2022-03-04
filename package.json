@@ -1,0 +1,16 @@
+{
+  "name": "md",
+  "version": "1.0.0",
+  "description": "技术文章",
+  "main": "index.js",
+  "repository": "https://github.com/yluchao/md.git",
+  "author": "杨路超 <y_luchao@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.5"
+  },
+  "scripts": {
+    "docs:dev": "vuepress.cmd dev docs",
+    "docs:build": "vuepress.cmd build docs"
+  }
+}
